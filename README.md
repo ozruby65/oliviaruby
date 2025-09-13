@@ -15,6 +15,7 @@ Hi, I’m Olivia Ruby!
   - Core CS Areas: Data Structures & Algorithms, Object-Oriented Design, Databases
 
 **FEATURED PROJECTS**
+
 _Calendar & Event Management System (Java)_
 
   - Designed a calendar application supporting daily events, completion tracking, and deep copy functionality.
