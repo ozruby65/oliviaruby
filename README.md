@@ -24,7 +24,7 @@ _Calendar & Event Management System (Java)_
   - Implemented recursive event handling using Java’s YearMonth and custom data structures.
 
   - Focused on scalability and modular architecture.
-    🔗 View Repo
+    🔗 [View Repo](https://github.com/ozruby65/classwork-projects/calendar-event-management/src)
 
 _Climate Data Analysis Tool (Java)_
 
@@ -33,13 +33,14 @@ _Climate Data Analysis Tool (Java)_
   - Computed average freeze durations and eliminated duplicates via custom algorithms.
 
   - Practiced recursive strategies and object-oriented patterns.
-    🔗 View Repo
+    🔗 [View Repo](https://github.com/ozruby65/classwork-projects/climate-data-analysis-tool/src)
 
 _Priority-Based Scheduling Application (Java)_
 
   - Developed a priority-based scheduler using heaps and recursion.
 
   - Implemented custom data structures for efficient event management.
+    🔗 [View Repo](https://github.com/ozruby65/classwork-projects/priority-based-scheduling-application/src)
 
 **RELEVANT COURSEWORK**
 
