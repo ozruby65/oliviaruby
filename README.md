@@ -15,7 +15,7 @@ Hi, I’m Olivia Ruby!
   - Core CS Areas: Data Structures & Algorithms, Object-Oriented Design, Databases
 
 **FEATURED PROJECTS**
-  - Calendar & Event Management System (Java)
+  - _Calendar & Event Management System (Java)_
 
     Designed a calendar application supporting daily events, completion tracking, and deep copy functionality.
 
@@ -24,7 +24,7 @@ Hi, I’m Olivia Ruby!
     Focused on scalability and modular architecture.
     🔗 View Repo
 
-  - Climate Data Analysis Tool (Java)
+  - _Climate Data Analysis Tool (Java)_
 
     Built a system to merge, clean, and analyze lake freeze data with linked lists.
 
@@ -33,7 +33,7 @@ Hi, I’m Olivia Ruby!
     Practiced recursive strategies and object-oriented patterns.
     🔗 View Repo
 
- - Priority-Based Scheduling Application (Java)
+ - _Priority-Based Scheduling Application (Java)_
 
     Developed a priority-based scheduler using heaps and recursion.
 
